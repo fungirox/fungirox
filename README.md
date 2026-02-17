@@ -12,10 +12,10 @@
 ### Little about me... 
 Computer Systems Engineering graduate specialized in backend development and with experience leading projects. A Developer by day ☼ and an Artist by night ☾
 ### Talking about Personal Stuffs
-- 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning AWS, Python
+- 🔭 I’m currently working as Software Developer
+- 🌱 I’m currently learning AWS, Python, .NET, C#
 - 👯 I’m looking to collaborate on Women STEM and Old Internet vibe
-- 🤔 I’m looking for help with Frontend, Laravel
+- 🤔 I’m looking for help with Frontend, Laravel, .NET
 - 💬 Ask me about Java, algorithms
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I use my hands to count in binary and I'm really obsessed with User Experience
